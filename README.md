@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @m1lagan aka Matt!
+- I’m an IT Professional looking to transition into cybersecurity. I'm using this to highlight some projects I've created in my spare time
+- I’m currently learning Python, Azure, and various cybersecurity courses while I'm earning a degree in cybersecurity!
+- How to reach me:
+    - Instagram: @illlagan
+    - LinkedIn: https://www.linkedin.com/in/mattilagan/
+    - TryHackMe: https://tryhackme.com/p/milagan824
