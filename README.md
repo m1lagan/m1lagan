@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m1lagan aka Matt!
-- I’m an IT Professional looking to transition into cybersecurity. I'm using this to highlight some projects I've created in my spare time
-- I’m currently learning Python, Azure, and various cybersecurity courses while I'm earning a degree in cybersecurity!
+- I’m an IT Professional looking to transition into cybersecurity. I'm using this to highlight some projects I've worked on in my spare time.
+- I graduated with a Bachelor's in Cybersecurity and Information Assurance. I am currently enrolled in the Master of Science, Cybersecurity and Information Assurance degree program at Western Governors University.
 - How to reach me:
     - Instagram: @illlagan
     - LinkedIn: https://www.linkedin.com/in/mattilagan/
